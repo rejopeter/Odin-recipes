@@ -9,3 +9,5 @@ i ran into an error!!!!!
 the index page was good. when i click the link.. it crashed..
 
 turns out i mentioned the file name in src but not the path.
+
+cool.. i learned to apply CSS styles
